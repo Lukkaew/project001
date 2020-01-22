@@ -1,5 +1,6 @@
 /**
  * @format
+ *Chanyapat Sriwanat
  */
 
 import {AppRegistry} from 'react-native';
